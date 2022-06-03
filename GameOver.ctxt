@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=GameOver
+comment0.text=\r\n\ Escenario\ que\ aparecer\u00E1\ cuando\ el\ usuario\ pierda\ en\ alguno\ de\ los\ niveles\ presentados\ en\ el\ juego\r\n\ \r\n\ @author\ Jos\u00E9\ Eduardo\ S\u00E1nchez\ Sifuentes\r\n\ @version\ 02\ de\ Junio\ de\ 2022\r\n
+comment1.params=
+comment1.target=GameOver()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ GameOver.\r\n\ \r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ M\u00E9todo\ que\ se\ ejecutar\u00E1\ desde\ el\ primer\ instante\r\n\ \r\n
+numComments=3

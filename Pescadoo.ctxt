@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Pescadoo
+comment0.text=\r\n\ Obst\u00E1culo\ para\ el\ personaje\ en\ el\ nivel\ 1\r\n\ \r\n\ @author\ Jos\u00E9\ Eduardo\ S\u00E1nchez\ Sifuentes\r\n\ @version\ 02\ de\ Junio\ de\ 2022\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ M\u00E9todo\ que\ permite\ al\ personaje\ atacar\r\n\ \r\n
+comment2.params=
+comment2.target=void\ move()
+comment2.text=\r\n\ M\u00E9todo\ que\ permite\ mover\ el\ obst\u00E1culo\ de\ manera\ autom\u00E1tica\r\n\ \r\n
+numComments=3

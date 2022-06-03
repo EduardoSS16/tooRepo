@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Freddy
+comment0.text=\r\n\ Enemigo\ del\ personaje\ principal\ en\ el\ nivel\ 3\r\n\ \r\n\ @author\ Jos\u00E9\ Eduardo\ S\u00E1nchez\ Sifuentes\r\n\ @version\ 02\ de\ Junio\ de\ 2022\r\n
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ move()
+comment2.text=\r\n\ M\u00E9todo\ que\ permite\ mover\ el\ enemigo\ de\ manera\ autom\u00E1tica\r\n\ \r\n
+comment3.params=
+comment3.target=void\ golpeadoCrucifijo()
+comment3.text=\r\n\ M\u00E9todo\ que\ verifica\ si\ el\ personaje\ es\ tocado\ por\ el\ crucifijo\r\n\ \r\n
+comment4.params=
+comment4.target=void\ ataca()
+comment4.text=\r\n\ M\u00E9todo\ que\ permite\ al\ personaje\ atacar\r\n\ \r\n
+numComments=5

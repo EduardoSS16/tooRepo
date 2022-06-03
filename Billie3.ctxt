@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Billie3
+comment0.text=\r\n\ Personaje\ principal\ correspondiente\ al\ nivel\ 3\r\n\ \r\n\ @author\ Jos\u00E9\ Eduardo\ S\u00E1nchez\ Sifuentes\r\n\ @version\ 02\ de\ Junio\ de\ 2022\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ M\u00E9todo\ que\ se\ ejecutar\u00E1\ desde\ el\ primer\ instante\r\n\ \r\n
+comment2.params=
+comment2.target=void\ dispara()
+comment2.text=\r\n\ M\u00E9todo\ que\ permite\ disparar\ al\ personaje\r\n\ \r\n
+comment3.params=
+comment3.target=void\ caida()
+comment3.text=\r\n\ M\u00E9todo\ que\ escenifica\ la\ ca\u00EDda\ del\ personaje\r\n\ \r\n
+comment4.params=
+comment4.target=void\ verificaCaida()
+comment4.text=\r\n\ M\u00E9todo\ que\ verifica\ si\ se\ est\u00E1\ cayendo\ el\ personaje\r\n\ \r\n
+comment5.params=
+comment5.target=void\ salto()
+comment5.text=\r\n\ M\u00E9todo\ que\ permite\ saltar\ al\ personaje\r\n\ \r\n
+numComments=6

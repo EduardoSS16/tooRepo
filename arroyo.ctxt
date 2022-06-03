@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=arroyo
+comment0.text=\r\n\ Escenario\ correspondiente\ al\ primer\ nivel.\r\n\ \r\n\ @author\ Jos\u00E9\ Eduardo\ S\u00E1nchez\ Sifuentes\r\n\ @version\ 02\ de\ Junio\ de\ 2022\r\n
+comment1.params=
+comment1.target=arroyo()
+comment1.text=\r\n\ Constructor\ para\ los\ objetos\ de\ la\ clase\ arroyo.\r\n\ \r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ M\u00E9todo\ que\ se\ ejecutar\u00E1\ desde\ el\ primer\ instante\r\n\ \r\n
+comment3.params=
+comment3.target=void\ prepare()
+comment3.text=\r\n\ Prepare\ el\ escenario\ para\ el\ inicio\ del\ nivel.\r\n\r\n
+numComments=4
